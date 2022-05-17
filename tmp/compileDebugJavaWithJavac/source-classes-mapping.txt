@@ -1,0 +1,18 @@
+com/example/trivia/controller/AppController.java
+ com.example.trivia.controller.AppController
+com/example/trivia/DataBindingTriggerClass.java
+ com.example.trivia.DataBindingTriggerClass
+com/example/trivia/BuildConfig.java
+ com.example.trivia.BuildConfig
+com/example/trivia/data/Repository.java
+ com.example.trivia.data.Repository
+com/example/trivia/data/AnswerListAsyncResponse.java
+ com.example.trivia.data.AnswerListAsyncResponse
+com/example/trivia/model/Question.java
+ com.example.trivia.model.Question
+com/example/trivia/databinding/ActivityMainBinding.java
+ com.example.trivia.databinding.ActivityMainBinding
+com/example/trivia/MainActivity.java
+ com.example.trivia.MainActivity
+ com.example.trivia.MainActivity$1
+ com.example.trivia.MainActivity$2
