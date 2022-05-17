@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_View">Trivia</string>
+    <string name="out_of_txt">Question: 45 / 89</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="question_text_view">Hey their ! Here you will see those questions whom you are going to answer!!</string>
+    <string name="text_formatted">Question: %d/%d</string>
+    <string name="correct_answer">Correct🤩</string>
+    <string name="incorrect">Incorrect😓</string>
+</resources>
